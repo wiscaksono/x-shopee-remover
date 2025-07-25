@@ -31,7 +31,6 @@ const manifest = {
   version: packageJson.version,
   description: '__MSG_extensionDescription__',
   host_permissions: ['https://x.com/*'],
-  permissions: [],
   icons: {
     '128': 'icon-128.png',
   },
