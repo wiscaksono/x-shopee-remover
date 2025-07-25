@@ -1,0 +1,25 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Tired of seeing dumb Shopee ads infest every single Twitter/X thread? I made this for you! This extension will sweep all those annoying Shopee ads right off your timeline. No more eye-sore, just enjoy Twitter/X without that bastardly clutter."
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "X Shopee Remover"
+  },
+  "displayErrorInfo": {
+    "message": "Error occur"
+  },
+  "displayErrorDescription": {
+    "message": "Sorry, something went wrong while loading the page."
+  },
+  "displayErrorDetailsInfo": {
+    "message": "Error details:"
+  },
+  "displayErrorUnknownErrorInfo": {
+    "message": "Unknown error"
+  },
+  "displayErrorReset": {
+    "message": "Run Again"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Buka Twitter/X, tapi tiap thread ada aja iklan Shopee tolol? Gua bikin ini buat lu! Ekstensi ini bakal sapu bersih semua iklan Shopee itu dari timeline lo. Nggak ada lagi beban mata, nikmatin Twitter/X tanpa gangguan bajingan itu."
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "X Shopee Remover"
+  },
+  "displayErrorInfo": {
+    "message": "Terjadi error"
+  },
+  "displayErrorDescription": {
+    "message": "Maaf, terjadi error saat memuat halaman."
+  },
+  "displayErrorDetailsInfo": {
+    "message": "Detail error: "
+  },
+  "displayErrorUnknownErrorInfo": {
+    "message": "Error tidak diketahui"
+  },
+  "displayErrorReset": {
+    "message": "Jalankan lagi"
+  }
+}
