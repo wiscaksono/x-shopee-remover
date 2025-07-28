@@ -37,6 +37,8 @@ Since X Shopee Remover is not yet available on the Chrome Web Store (it's curren
 
 3.  Once installed, the **X Shopee Remover** icon will appear in your Chrome toolbar.
 
+### Or, download it directly from the [Chrome Web Store ↗](https://chromewebstore.google.com/detail/x-shopee-remover/ajpdopfnkjfbhokjjmbejgfhpienepga) it’s available!
+
 ## How to Use
 
 This extension works automatically. Simply install it and open Twitter/X; your feed will immediately be cleaner from those irritating Shopee ads.
